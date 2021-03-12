@@ -8,3 +8,12 @@ You each folder (English, Spanish) are the same just the strings are translated.
 #Español
 
 Las carpetas (English, Spanish) son lo mismo, solo que estan traducidas a su respectivo idioma. Dentro de estas carpetas veras una carpeta llamada "buyselltable" no cambies el nombre o no funcionara.
+
+
+
+Preview: https://www.youtube.com/watch?v=NdC42JE8yq0&t=108s
+
+
+If you want to contribute 
+
+https://www.buymeacoffee.com/badchulo
