@@ -11,7 +11,7 @@ Las carpetas (English, Spanish) son lo mismo, solo que estan traducidas a su res
 
 
 
-Preview: https://www.youtube.com/watch?v=NdC42JE8yq0&t=108s
+Preview: https://www.youtube.com/watch?v=NdC42JE8yq0
 
 
 If you want to contribute 
