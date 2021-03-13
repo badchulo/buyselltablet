@@ -138,7 +138,7 @@ ESX.RegisterServerCallback('esx_onlineshop:obtenerinventario', function(source, 
 		
 		
 		
-	end)
+
 end)
 
 
