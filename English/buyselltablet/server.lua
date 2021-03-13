@@ -135,7 +135,7 @@ ESX.RegisterServerCallback('esx_onlineshop:obtenerinventario', function(source, 
 	
 	
 	cb({items = items})
-	MySQL.Async.fetchAll('SELECT usuario, zombies FROM users ORDER BY zombies DESC LIMIT 5', { ['@id'] = playerId }, function(result)
+	
 		
 		
 		
